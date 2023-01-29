@@ -22,7 +22,7 @@ I hold a Diploma in Information Technology and have certifications in various fi
 
 ## 👨‍💻 All of my projects are available at: [dylanstanding.ca](https://dylanstanding.ca/) 
 
-## 📫 How to reach me: **dylanstanding+git@gmail.com**
+## 📫 How to reach me: **dylanjstanding+git@gmail.com**
   
  
 <h3 align="left">Languages and Tools:</h3>

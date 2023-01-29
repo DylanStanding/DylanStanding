@@ -11,12 +11,14 @@ I have a deep understanding of various technologies and protocols, including Lin
 
 I hold a Diploma in Information Technology and have certifications in various fields like Azure, and Front-End Development.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## Connect with me:
+
 <a href="https://linkedin.com/in/dylanstanding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dylanstanding" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dylanstanding" alt="dylanstanding" /></a> </p>
+##
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dylanstanding&theme=nord" alt="dylanstanding" /></a> </p>
 
 ## 👨‍💻 All of my projects are available at: [dylanstanding.ca](dylanstanding.ca) 
 
